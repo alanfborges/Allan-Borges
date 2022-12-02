@@ -8,7 +8,7 @@
 
 <div>
 <a href="https://github.com/Allan-Borges">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Borges&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allan-Borges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Borges&layout=compact&langs_count=7&theme=dracula"/><img height="160em" src="https://github-readme-stats.vercel.app/api?username=Allan-Borges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ## Tools and Tchnology
@@ -17,7 +17,7 @@
           
 ## I am learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="80" height="80"/>
           
  ## Contacts:
 
