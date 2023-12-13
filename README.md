@@ -1,7 +1,7 @@
 
 ## 👋 Hello! Welcome to my Github profile.
 
-### Hi, I'm Allan-Borges!! Student of the second semester of software engineering.
+### Hi, I'm Allan-Borges!!
 
 - 🌱 I’m currently learning Spring framework/Rest architecture.
 - 🤔 I’m looking for help with job oportunities
